@@ -1,1 +1,1 @@
-# Internship_project3
+Tic, Tac and Toe game. Guess the correct number
